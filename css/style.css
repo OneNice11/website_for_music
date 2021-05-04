@@ -1,0 +1,259 @@
+body {
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+    font-size: 32px;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding-top: 1px;
+    width: 20%;
+    background-color: bisque;
+    overflow-Y: scroll;
+    height: 789PX;
+}
+
+.h1first {
+    margin-left: 25px;
+    padding-top: 30px;
+    text-shadow: -3px 3px 6px darkblue;
+}
+
+.h1second {
+    margin-top: 190px;
+    padding-left: 15px;
+    text-shadow: -3px 3px 6px deeppink;
+}
+
+.h1third {
+    margin-top: 370px;
+    padding-left: 70px;
+    text-shadow: -3px 3px 6px darkmagenta;
+    margin-bottom: 400px;
+}
+
+.h14 {
+    margin-top: 150px;
+    padding-left: 7px;
+    text-shadow: -3px 3px 6px fuchsia;
+    margin-bottom: 480px;
+}
+
+.h15 {
+    margin-top: 490px;
+    padding-left: 35px;
+    text-shadow: -3px 3px 6px darkorchid;
+}
+
+.div1 {
+    display: flex;
+}
+
+.a1 {
+    text-decoration: none;
+}
+
+a:hover {
+    color: chocolate;
+}
+
+.p0 {
+    font-size: 12px;
+    color: black;
+    padding-left: 3px;
+    margin-top: 50px;
+}
+
+.p1 {
+    font-size: 12px;
+    color: black;
+    padding-left: 3px;
+}
+
+.div2 {
+    background: url(../img/1.png)no-repeat;
+    width: 230px;
+    height: 160px;
+    margin-top: 420px;
+    margin-left: 30px;
+}
+
+.div3 {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.div4 {
+    background: url(../img/hajime.jpg)no-repeat;
+    margin-left: 35px;
+    margin-top: 440px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+
+.div5 {
+    background: url(../img/Viktor%20tsoi.jpg)no-repeat;
+    margin-left: 35px;
+    margin-top: 60px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+
+.div6 {
+    background: url(../img/face.jpg)no-repeat;
+    margin-left: 35px;
+    margin-top: 60px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+
+.btn {
+    margin-left: 90px;
+    background-color: black;
+    border-radius: 100px;
+    font-size: 14px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+
+.btn1 {
+    padding: 10px;
+    padding-left: 45px;
+    margin-left: 40px;
+    padding-right: 44px;
+    padding-top: 18px;
+    padding-bottom: 16px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+}
+
+.ah {
+    font-size: 16px;
+    margin-left: 40px;
+}
+
+.ph {
+    font-size: 16px;
+    margin-left: 40px;
+    margin-top: 120px;
+}
+
+.div7 {
+    background: url(../img/first%20tovar.jpg)no-repeat;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+}
+
+.div8 {
+    background: url(../img/3tovar.jpg)no-repeat;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+}
+
+.div9 {
+    background: url(../img/2tovar.jpg)no-repeat;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+}
+
+.div10 {
+    background: url(../img/yamakasi.jpg)no-repeat;
+    margin-left: 35px;
+    margin-top: 425px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+
+.div11 {
+    background: url(../img/the%20weeknd.jpg)no-repeat;
+    margin-left: 35px;
+    margin-top: 60px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+
+.div12 {
+    background: url(../img/max.jpg)no-repeat;
+    margin-left: 35px;
+    margin-top: 60px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+
+audio {
+    width: 195px;
+    height: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 16px;
+}
+
+.pp {
+    margin-top: 230px;
+    font-size: 12px;
+    margin-left: 38px;
+    width: 200px;
+}
+
+.pp1 {
+    font-size: 12px;
+    margin-left: 38px;
+    width: 200px;
+}
+
+.div13 {
+    background: url(../img/logo-soundcloud.png) no-repeat;
+    width: 200px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+span {
+    font-weight: 900;
+}
+
+.div14 {
+    display: inline-flex;
+}
+
+.div15 {
+    background: url(../img/insta.png) no-repeat;
+    width: 50px;
+    height: 50px;
+    margin-left: 60px;
+}
+
+.div16 {
+    background: url(../img/youtube.png) no-repeat;
+    width: 50px;
+    height: 50px;
+}
+
+.div17 {
+    background: url(../img/itunes.png) no-repeat;
+    width: 50px;
+    height: 50px;
+}
